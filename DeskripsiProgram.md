@@ -51,6 +51,7 @@ Login Sebagai User :
 ![image](https://user-images.githubusercontent.com/93566840/147403617-0f5e074c-86c2-47e1-9057-a4c888e72d94.png)
 2. List Film User
 ![image](https://user-images.githubusercontent.com/93566840/147403631-e9e31c68-9d83-4fde-8df8-9863efe68bab.png)
+
 2.1 Request Film
 ![image](https://user-images.githubusercontent.com/93566840/147403650-56984ae0-ef5f-45fd-82f8-c54eef9f685d.png)
 2.2 Daftar Film
