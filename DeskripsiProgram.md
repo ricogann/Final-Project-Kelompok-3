@@ -90,8 +90,8 @@
   Sama dengan yang ada di Admin
   
 # Nama Anggota Kelompok
-
-1. Rico Putra Anugerah - 20081010024
+ 
+- Rico Putra Anugerah - 20081010024
 
 # Data yang digunakan
 
