@@ -92,6 +92,11 @@
 # Nama Anggota Kelompok
  
 - Rico Putra Anugerah - 20081010024
+- Achmad Arif Taufiqqur Rahman - 20081010088
+- Nadif Rayhan Julio Mohede - 20081010135
+- Yosia Triputra Rahardjo - 20081010158
+- Ahmad Haikal Nuqqy Zahhar - 20081010207
+
 
 # Data yang digunakan
 
