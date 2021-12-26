@@ -74,6 +74,7 @@ Login Sebagai User :
 ![image](https://user-images.githubusercontent.com/93566840/147403759-aba14ccf-4252-4353-97c6-5a4fde0e6a8a.png)
 
 3. Search Film
+
   Sama dengan yang ada di Admin
   
 4. Menu Transaksi Film User
@@ -84,7 +85,20 @@ Login Sebagai User :
 ![image](https://user-images.githubusercontent.com/93566840/147403793-dc953d9c-923f-40eb-b3e6-1feecffede66.png)
 
 5. About Us
+
   Sama dengan yang ada di Admin
+  
+# Nama Anggota Kelompok
+
+1. Rico Putra Anugerah - 20081010024
+
+# Data yang digunakan
+
+# Metode yang diterapkan
+
+# List Menu yang diterapkan
+
+# Cara Penggunaan Aplikasi
 
 
 
