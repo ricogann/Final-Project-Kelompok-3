@@ -45,5 +45,47 @@ Login Sebagai Admin :
 5. Menu About Us
 ![image](https://user-images.githubusercontent.com/93566840/147403541-c78abb6f-322e-4698-92c9-33d48db7798e.png)
 
+Login Sebagai User :
+
+1. Home User
+![image](https://user-images.githubusercontent.com/93566840/147403617-0f5e074c-86c2-47e1-9057-a4c888e72d94.png)
+2. List Film User
+![image](https://user-images.githubusercontent.com/93566840/147403631-e9e31c68-9d83-4fde-8df8-9863efe68bab.png)
+2.1 Request Film
+![image](https://user-images.githubusercontent.com/93566840/147403650-56984ae0-ef5f-45fd-82f8-c54eef9f685d.png)
+2.2 Daftar Film
+![image](https://user-images.githubusercontent.com/93566840/147403659-09c29133-927e-491c-acd7-5dbddc51c770.png)
+2.2.1 Urutkan Film
+![image](https://user-images.githubusercontent.com/93566840/147403661-c7e27b14-0079-446f-8744-5045f161f7fd.png)
+2.2.1.1 Urutkan Berdasarkan Judul Film
+![image](https://user-images.githubusercontent.com/93566840/147403672-5284c02e-cafd-4283-bb3e-e07aa73d19e6.png)
+![image](https://user-images.githubusercontent.com/93566840/147403675-17a5d59e-2e4a-4084-b0f0-ea11e7cc30a6.png)
+2.2.1.2 Urutkan Berdasarkan Genre Film
+![image](https://user-images.githubusercontent.com/93566840/147403692-d14dcd57-8b2b-4975-b69c-650372a08f46.png)
+![image](https://user-images.githubusercontent.com/93566840/147403693-540ada00-84f4-4849-843d-9b7dc5879137.png)
+2.2.1.3 Urutkan Berdasarkan Tahun Rilis Film
+![image](https://user-images.githubusercontent.com/93566840/147403718-d1807e36-4962-457b-8f9e-594068ce24de.png)
+![image](https://user-images.githubusercontent.com/93566840/147403719-3267b7a0-49a3-4b93-9a12-415a612f9add.png)
+2.2.1.4 Urutkan Berdasarkan Sutradara Film
+![image](https://user-images.githubusercontent.com/93566840/147403732-23810951-9c26-44b3-80c3-f6ae71102e25.png)
+![image](https://user-images.githubusercontent.com/93566840/147403737-3b910fd3-0327-4f27-a8a2-5e833c7c0cd1.png)
+2.2.1.5 Urutkan Berdasarkan Studio Film
+![image](https://user-images.githubusercontent.com/93566840/147403758-7c690560-2206-45ea-b34a-9c9958e2dd38.png)
+![image](https://user-images.githubusercontent.com/93566840/147403759-aba14ccf-4252-4353-97c6-5a4fde0e6a8a.png)
+
+3. Search Film
+  Sama dengan yang ada di Admin
+  
+4. Menu Transaksi Film User
+![image](https://user-images.githubusercontent.com/93566840/147403781-46e6ab10-41ab-4ab5-8852-7170d04e9f3c.png)
+4.1 Beli Film
+![image](https://user-images.githubusercontent.com/93566840/147403785-580d0270-becb-4290-a38e-8055cdec2342.png)
+4.2 Sewa Film
+![image](https://user-images.githubusercontent.com/93566840/147403793-dc953d9c-923f-40eb-b3e6-1feecffede66.png)
+
+5. About Us
+  Sama dengan yang ada di Admin
+
+
 
 
