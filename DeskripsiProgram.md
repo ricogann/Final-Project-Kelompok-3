@@ -23,6 +23,7 @@ Login Sebagai Admin :
 ![image](https://user-images.githubusercontent.com/93566840/147403333-1ab8f19b-317f-47b8-90bf-bbe59fff9841.png)
 2.3 List Request Film
 ![image](https://user-images.githubusercontent.com/93566840/147403342-c23d4629-cb16-4990-a6c0-29a9747d91d9.png)
+
 3. Search Film
 ![image](https://user-images.githubusercontent.com/93566840/147403453-c5b392fa-ca05-4971-a4db-549872943d8d.png)
 3.1 Search Judul Film
@@ -35,10 +36,12 @@ Login Sebagai Admin :
 ![image](https://user-images.githubusercontent.com/93566840/147403507-85d73b07-26d8-49b4-ad39-1a9835b5120e.png)
 3.5 Search Studio Film
 ![image](https://user-images.githubusercontent.com/93566840/147403511-7a38c017-9feb-47ba-9069-b1be5cba661e.png)
+
 4. Menu Transaksi Film Admin
 ![image](https://user-images.githubusercontent.com/93566840/147403519-58eb2025-3354-455e-90a8-d00b4307b012.png)
 4.1 List Riwayat Transaksi Film
 ![image](https://user-images.githubusercontent.com/93566840/147403529-9493ac07-11c2-47c5-b15d-6018967e5a3e.png)
+
 5. Menu About Us
 ![image](https://user-images.githubusercontent.com/93566840/147403541-c78abb6f-322e-4698-92c9-33d48db7798e.png)
 
