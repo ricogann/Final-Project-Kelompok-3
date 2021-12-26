@@ -97,7 +97,7 @@
 
 # Metode yang diterapkan
 
-# List Menu yang diterapkan
+# List Menu yang ditawarkan
 
 # Cara Penggunaan Aplikasi
 
