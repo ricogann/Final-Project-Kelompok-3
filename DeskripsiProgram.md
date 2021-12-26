@@ -6,9 +6,9 @@ Menu Utama :
 Login Sebagai Admin :
 1 Home Admin
 ![image](https://user-images.githubusercontent.com/93566840/147403211-0775ac7c-b0a1-40a6-b2e1-e726596ab88a.png)
-2 List Film
+2 Menu List Film
 ![image](https://user-images.githubusercontent.com/93566840/147403214-1e6f009f-9df4-4fd7-b553-a5ff3a7e8479.png)
-2.1 Menu List Film
+2.1 Menu Kelola Data
 ![image](https://user-images.githubusercontent.com/93566840/147403254-9033265d-c754-4d3f-9db0-12c992d0c839.png)
 2.1.1 Menu Kelola Data
 ![image](https://user-images.githubusercontent.com/93566840/147403261-d643bdd5-f8cf-4475-a9f3-3069157def6e.png)
