@@ -170,9 +170,11 @@ User
     4. Sutradara
     5. Studio
   - Transaksi Film Admin
+    yang berisi
     1. Riwayat Transaksi Film
     2. Selesai
   - Transaksi Film User
+    yang berisi
     1. Beli Film
     2. Sewa Film
   - About Us
