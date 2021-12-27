@@ -14,7 +14,7 @@ Admin :
 - Melihat daftar transaksi dari penjualan dan penyewaan
 - Melihat daftar request film yang diinginkan user
 
-User
+User :
 - User dapat melihat tampilan daftar film serta search berdasarkan Judul,Genre, nama Sutradara, Tahun Rilis, Nama Studio
 - Melakukan request film yang diinginkan
 - Melakukan transaksi penyewaan ataupun penjualan
