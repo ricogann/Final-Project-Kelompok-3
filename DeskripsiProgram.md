@@ -152,7 +152,30 @@ User
 - Jump Search
 - Exponential Search
 # List Menu yang ditawarkan
-
+  - Home
+  - List Film Admin
+    yang berisi
+    1. Kelola Data
+    2. List Film
+    3. List Request Film
+  - List Film User
+    yang berisi
+    1. Request Film
+    2. Daftar Film
+  - Search Film
+    yang berisi
+    1. Judul
+    2. Genre
+    3. Tahun Rilis
+    4. Sutradara
+    5. Studio
+  - Transaksi Film Admin
+    1. Riwayat Transaksi Film
+    2. Selesai
+  - Transaksi Film User
+    1. Beli Film
+    2. Sewa Film
+  - About Us
 # Cara Penggunaan Aplikasi
 - Cara Penggunaan Aplikasi sebagai User
 1. Jalankan Aplikasinya
@@ -171,16 +194,14 @@ User
 1. Jalankan Aplikasinya
 2. Setelah dijalankan user akan memilih login sebagai admin
 3. Setelah itu akan tampil 5 menu yaitu home, list film, search film, transaksi film, about us.
-4. User akan memilih menu dengan menginputkan angka yang sesuai dengan menunya. Jika menginputkan angka 1 yaitu home, maka akan muncul menu home yang merupakan tampilan awal aplikasi.
-5. Lalu menu selanjutnya adalah list film, dengan user menginputkan angka 2 yaitu list film, akan muncul pilihan kelola data, daftar film, dan juga list request film. user akan memilih dengan menginputkan angka yang sesuai dengan pilihannya, dengan user menginputkan 1 yaitu kelola data yang terdiri dari insert data,read data,update data,delete data, yang difungsikan untuk admin menambah film yang tersedia, lalu ada read data untuk melihat data yang tersedia, update data untuk memperbarui data atau membenarkan data yang 
-6. Jika user menginputkan angka yang sesuai dengan insert data yaitu 1, maka user akan memasukkan judul,genre,tahun rilis,sutradara,studio,harga jual,harga sewa. setelah memasukkkan data akan ada pilihan mau lanjut atau selesai, jika mau memasukkan data atau mengakses menu lainnya maka pilih lanjut, jika tidak maka pilih selesai.
-7. Jika user memilih read data, maka user akan ditampilkan daftar film yang tersedia.
-8. Lalu selanjutnya ada update data,Jika user menginputkan angka yang sesuai dengan update data, maka user akan memasukkan judul film yang mau di update, lalu memasukkan data film terbaru.
-9. Jika film tersebut sold out, maka film tersebut perlu untuk ditarik dari daftar film yang tersedia, maka dari itu user akan menghapus film yang sold out dengan memilih delete data. user akan memasukkan judul dari film yang akan didelete, setelah itu data dari filmnya akan terhapus.
-10. lalu menu selanjutnya yang ada di list film yaitu list film, dengan user menginputkan angka 2 didalam menu list film, maka akan muncul daftar film yang tersedia. setelah itu akan ada pilihan apakah lanjut atau tidak, jika lanjut maka pilih lanjut, jika tidak maka pilih selesai.
-11. Lalu menu selanjutnya yang ada di list film yaitu list film, dengan user menginputkan angka 2 didalam menu list film, maka akan muncul daftar film yang tersedia. setelah itu akan ada pilihan apakah lanjut atau tidak, jika lanjut maka pilih lanjut, jika tidak maka pilih selesai.
-12. Lalu selanjutnya yaitu menu ketiga ada menu search film, dengan user menginputkan angka 3 maka akan muncul pilihan search berdasarkan apa, aplikasi kami menawarkan search berdasarkan judul,genre,tahun rilis,sutradara,studio film. user akan memilih search berdasarkan apa dengan menginputkan angka yang tertera. jika user menginputkan angka 1 yaitu search berdasarkan judul, maka user akan input judul yang ingin dicari, begitupun yang lainnya. setelah itu akan ada pilihan apakah lanjut atau tidak, jika lanjut maka pilih lanjut, jika tidak maka pilih selesai.
-13. Lalu selanjutnya ada menu transaksi film admin, dengan user menginputkan angka 4 yaitu transaksi film, maka akan muncul list transaksi film dari user yang telah membeli atau menyewa film. Setelah itu akan ada pilihan apakah lanjut atau tidak, jika lanjut maka pilih lanjut, jika tidak maka pilih selesai.
+4. Admin akan memilih menu dengan menginputkan angka yang sesuai dengan menunya. Jika menginputkan angka 1 yaitu home, maka akan muncul menu home yang merupakan tampilan awal aplikasi.
+5. Lalu menu selanjutnya adalah list film, dengan Admin menginputkan angka 2 yaitu list film, akan muncul pilihan kelola data, daftar film, dan juga list request film. Admin akan memilih dengan menginputkan angka yang sesuai dengan pilihannya, dengan Admin menginputkan 1 yaitu kelola data yang terdiri dari insert data,read data,update data,delete data, yang difungsikan untuk admin menambah film yang tersedia, lalu ada read data untuk melihat data yang tersedia, update data untuk memperbarui data atau membenarkan data yang 
+6. Jika Admin menginputkan angka yang sesuai dengan insert data yaitu 1, maka Admin akan memasukkan judul,genre,tahun rilis,sutradara,studio,harga jual,harga sewa. setelah memasukkkan data akan ada pilihan mau lanjut atau selesai, jika mau memasukkan data atau mengakses menu lainnya maka pilih lanjut, jika tidak maka pilih selesai.
+7. Jika Admin memilih read data, maka Admin akan ditampilkan daftar film yang tersedia.
+8. Lalu selanjutnya ada update data,Jika Admin menginputkan angka yang sesuai dengan update data, maka Admin akan memasukkan judul film yang mau di update, lalu memasukkan data film terbaru.
+9. Jika film tersebut sold out, maka film tersebut perlu untuk ditarik dari daftar film yang tersedia, maka dari itu Admin akan menghapus film yang sold out dengan memilih delete data. Admin akan memasukkan judul dari film yang akan didelete, setelah itu data dari filmnya akan terhapus.
+10. Lalu menu selanjutnya yang ada di list film yaitu list film, dengan Admin menginputkan angka 2 di dalam menu list film, maka akan muncul daftar film yang tersedia. setelah itu akan ada pilihan apakah lanjut atau tidak, jika lanjut maka pilih lanjut, jika tidak maka pilih selesai.
+11. Lalu menu selanjutnya yang ada di list film yaitu list request film, dengan Admin menginputkan angka 3 di dalam menu list film, maka akan muncul daftar request dari user-user yang telah request film di aplikasi ini.
+12. Lalu selanjutnya yaitu menu ketiga ada menu search film, dengan Admin menginputkan angka 3 di menu utama maka akan muncul pilihan search berdasarkan apa, aplikasi kami menawarkan search berdasarkan judul,genre,tahun rilis,sutradara,studio film. Admin akan memilih search berdasarkan apa dengan menginputkan angka yang tertera. jika Admin menginputkan angka 1 yaitu search berdasarkan judul, maka Admin akan input judul yang ingin dicari, begitupun yang lainnya. setelah itu akan ada pilihan apakah lanjut atau tidak, jika lanjut maka pilih lanjut, jika tidak maka pilih selesai.
+13. Lalu selanjutnya ada menu transaksi film admin, dengan Admin menginputkan angka 4 di menu utama yaitu transaksi film, maka akan muncul list transaksi film dari Admin yang telah membeli atau menyewa film. Setelah itu akan ada pilihan apakah lanjut atau tidak, jika lanjut maka pilih lanjut, jika tidak maka pilih selesai.
 14. Tersisa menu terakhir yaitu about us, yang berisi tujuan program dan juga data diri anggota.
-
-
