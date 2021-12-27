@@ -135,7 +135,10 @@
 # List Menu yang ditawarkan
 
 # Cara Penggunaan Aplikasi
-
+1. Jalankan Aplikasinya
+2. Setelah Run Aplikasi, user nanti akan memilih login sebagai user atau sebagai admin
+3. Setelah memilih dari salah satu dari kedua pilihan itu, maka akan keluar home yang menampilkan 5 menu yaitu home, list film, search film, transaksi film, about us
+4. Isi dari 5 menu tersebut
 
 
 
