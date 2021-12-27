@@ -135,10 +135,15 @@
 # List Menu yang ditawarkan
 
 # Cara Penggunaan Aplikasi
+- Cara Penggunaan Aplikasi sebagai User
 1. Jalankan Aplikasinya
-2. Setelah Run Aplikasi, user nanti akan memilih login sebagai user atau sebagai admin
-3. Setelah memilih dari salah satu dari kedua pilihan itu, maka akan keluar home yang menampilkan 5 menu yaitu home, list film, search film, transaksi film, about us
-4. Isi dari 5 menu tersebut
-
+2. Setelah dijalankan user akan memilih login sebagai user
+3. Jika memilih login sebagai user, akan tampil 5 menu yaitu home, list film, search film, transaksi film, about us.
+4. Jika user ingin melihat daftar film yang tersedia, maka masuk ke menu list film dan memilih daftar film.
+5. Setelah data dari film yang tersedia telah keluar, user dapat memilih apakah mau mengurutkan datanya agar nyaman dilihat atau tidak, jika tidak maka pilih pilihan selesai.
+6. Jika setelah melihat data film lalu film yang mau dibeli/sewa tidak ada, maka user dapat request film favoritnya dengan masuk ke menu list film lalu memilih request film, di request film nanti user akan memasukkan judul, tahun rilis, dan juga studio.
+7. Lalu jika user ingin mencari film dengan cepat, tidak melihat 1 1 di daftar film, maka masuk ke menu search film, di search film menawarkan search berdasarkan judul, genre, tahun rilis, sutradara, studio. nanti user akan memasukkan namanya sesuai dengan film yang ingin si user cari.
+8. Jika user sudah memutuskan untuk membeli/sewa, maka masuk ke menu transaksi film. di dalam menu transaksi film akan diberi pilihan ingin membeli atau menyewa, jika user memilih membeli, maka user akan disuruh memilih film mana yang akan dibeli dan membayar sesuai harga yang tertera. Jika user hanya menyewa film, maka user akan memasukkan berapa hari durasinya untuk menyewa filmnya lalu membayar sesuai harga yang tertera.
+9.  
 
 
