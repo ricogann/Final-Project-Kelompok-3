@@ -99,7 +99,26 @@
 
 
 # Data yang digunakan
-
+1. Film
+  - Judul Film
+  - Genre Film
+  - Tahun Rilis Film
+  - Sutradara Film
+  - Studio Film
+  - Harga Jual
+  - Harga Sewa
+2. Request Film
+  - Judul Request Film
+  - Tahun Rilis Request Film
+  - Studio Request Film
+3. Riwayat Transaksi Film
+  - Riwayat Judul Film
+  - Riwayat Genre Film
+  - Riwayat Tahun Rilis Film
+  - Riwayat Studio Film
+  - Riwayat Transaksi
+  - Riwayat Bayar
+  - Riwayat Kembali
 # Metode yang diterapkan
 
 # List Menu yang ditawarkan
