@@ -144,6 +144,7 @@ User
   - Riwayat Kembali
 # Metode yang diterapkan
 - CRUD
+- Bubble Sort
 - Insertion Sort
 - Selection Sort
 - Sequential Search
