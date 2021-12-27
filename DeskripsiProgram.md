@@ -1,4 +1,23 @@
 # Program Penjualan dan Penyewaan Film
+Project akhir kami adalah tentang penjualan dan penyewaan Film.
+Program kami memiliki 2 point-of-view yaitu admin dan user, yang dimana user memiliki akses terbatas daripada admin. Admin memiliki kapasitas untuk CRUD film yang tersedia dan user tidak dapat mengotak-atik data yang ada didalam film yang tersedia, user hanya dapat menampilkan datanya saja.
+
+Kami juga menerapkan semua materi sorting yang telah dipelajari di semester 3 ini, yaitu Bubble Sort, Selection Sort, Insertion Sort, yang digunakan untuk menyorting secara ascending dan descending list film yang tersedia. Bubble Sort digunakan untuk sorting judul film, Selection Sort untuk genre dan tahun rilis film, Insertion Sort untuk sutradara dan studio film.
+
+Di dalam program, kami juga menyajikan fitur search untuk mencari film yang ingin dicari. Data film yang dapat dicari adalah judul film, genre film, tahun rilis film, sutradara film, studio film dengan menerapkan semua materi tentang search yang telah dijelaskan selama semester 3 ini.
+
+Sesuai dengan fungsi utama dari project ini, kami ada fitur untuk menjual dan menyewakan film. Data dari penjualan dan penyewaan film disimpan didalam file yang dimana nanti dapat ditampilkan riwayat penjualan atau penyewaannya(admin yang dapat mengakses).
+
+Admin :
+- Admin dapat mengelola data, yaitu insert,read,update,delete data yang tersedia
+- Melakukan pencarian berdasarkan Judul,Genre, nama Sutradara, Tahun Rilis, Nama Studio
+- Melihat daftar transaksi dari penjualan dan penyewaan
+- Melihat daftar request film yang diinginkan user
+
+User
+- User dapat melihat tampilan daftar film serta search berdasarkan Judul,Genre, nama Sutradara, Tahun Rilis, Nama Studio
+- Melakukan request film yang diinginkan
+- Melakukan transaksi penyewaan ataupun penjualan
 
 # Screenshot Aplikasi
 ## Menu Utama
