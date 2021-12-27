@@ -1,0 +1,15 @@
+Deskripsi Project Akhir
+
+project ini berisikan tampilan penjualan dan penyewaan Film.
+tampilan yang kita berikan ada 2 mode yaitu untuk Admin dan User.
+
+Admin :
+- Admin menampilkan program untuk dapat menambah, mengurangi, mengubah dari list film yang tersedia
+- melakukan pencarian berdasarkan Judul, nama Sutradara, Tahun Rilis, Nama Studio
+- melihat daftar transaksi penjualan dan penyewaan
+- melihat daftar request film yang diinginkan user
+
+User
+- User dapat melihat tampilan daftar film serta search berdasarkan Judul, nama Sutradara, Tahun Rilis, Nama Studio
+- melakukan request film yang diinginkan
+- melakukan transaksi penyewaan ataupun penjualan
