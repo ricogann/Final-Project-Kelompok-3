@@ -118,12 +118,20 @@
   - Riwayat Judul Film
   - Riwayat Genre Film
   - Riwayat Tahun Rilis Film
+  - Riwayat Sutradara Film
   - Riwayat Studio Film
   - Riwayat Transaksi
   - Riwayat Bayar
   - Riwayat Kembali
 # Metode yang diterapkan
-
+- CRUD
+- Insertion Sort
+- Selection Sort
+- Sequential Search
+- Binary Search
+- Interpolation Search
+- Jump Search
+- Exponential Search
 # List Menu yang ditawarkan
 
 # Cara Penggunaan Aplikasi
